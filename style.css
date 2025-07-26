@@ -1,14 +1,18 @@
+/*
 .div{
     width: 100px;
     height: 100px;
     background-color: blueviolet;
     animation: movement 15s linear infinite;
 }
+*/
 .h1{
     front-size: 32px;
     color: red;
     cursor: pointer;
 }
+
+/*
 .div{
     width: 500px;
     height: 500px;
@@ -18,6 +22,7 @@
     background-color: aqua;
     cursor: pointer;
 }
+*/
 /*
 @keyframes movement{
     0%{
