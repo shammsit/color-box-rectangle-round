@@ -1,3 +1,7 @@
-var a = document.getElementById("h1");
-console.log(a.innerText);
-a.style.fontSize="58px"; 
+function show(){
+  var a= document.getElementById("h1");
+  a.style.display="block";
+}
+function hide(){
+  
+}
