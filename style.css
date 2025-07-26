@@ -10,8 +10,15 @@
     cursor: pointer;
 }
 .div{
-    
+    width: 500px;
+    height: 500px;
+    background-color: red;
 }
+.div:hover{
+    background-color: aqua;
+    cursor: pointer;
+}
+/*
 @keyframes movement{
     0%{
         margin-top: 0;
@@ -34,3 +41,4 @@
         margin-left: 0;
     }
 }
+*/
